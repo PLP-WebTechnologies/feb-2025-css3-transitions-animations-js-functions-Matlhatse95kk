@@ -1,23 +1,26 @@
-# CSS3 Transitions, Animations, and Advanced JavaScript Functions
+# Introduction to JavaScript and DOM Manipulation
 
 ## Objectives
 
-Create smooth CSS transitions and animations.
-Use JavaScript functions for dynamic behavior.
-Implement local storage for data persistence.
+Write basic JavaScript functions.
+Manipulate the DOM dynamically.
+Respond to user interactions.
 
 ## Instructions
-Add CSS animations to elements like buttons or images.
+
+- Create a script.js file and link it to a HTML.
+- Structure the document using DOCTYPE, html, head, and body.
 
 >[!NOTE]
-> - Write a JavaScript function that:
-> - Stores and retrieves user preferences using localStorage.
-> - Implements an animation triggered by user actions.
+>  - Write JavaScript that:
+>  - Changes text content dynamically.
+>  - Modifies CSS styles via JavaScript.
+>  - Adds or removes an element when a button is clicked.
 
-## Tasks
 
-Create a CSS animation.
-Store data in localStorage.
-Apply JavaScript to trigger animations.
+# Tasks
+- Create a well-structured HTML5 document.
+- Use at least 5 different HTML elements.
+- Ensure semantic correctness.
 
 Happy Coding! 💻✨
